@@ -5,7 +5,7 @@ function theBeatlesPlay(a,b) {
    }
    return item;
 }
-var musicians = ["John", "Paul", "George", "Ringo"];
+var musicians = ["John", "George", "Paul", "Ringo"];
 var instruments = ["Guitar", "Bass Guitar", "Lead Guitor", "Drums"];
 theBeatlesPlay(musicians, instruments);
 
